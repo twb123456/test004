@@ -5,7 +5,7 @@ public class User {
     private String password;
     private String brithday;
 
-
+private String work;
     public String getUsername() {
         return username;
     }
